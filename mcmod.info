@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "fiskheroes",
+    "name": "Fisk's Superheroes",
+    "description": "Adds a variety of Superheroes, primarily from the DCTV shared universe and the Marvel Cinematic Universe.",
+    "version": "2.4.0",
+    "mcversion": "1.21.1",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["FiskFille"],
+    "credits": "Kill3rCreeper, WaffleWarrior, ShueShue, Gegy, McSnazzy, Marctron, Jensen Parker, iLexiconn, Duvain Feynorim, JurassicAlien",
+    "logoFile": "fiskheroes-banner.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
